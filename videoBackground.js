@@ -1,12 +1,12 @@
 (function () {
     const VIDEO_URL =
-        "https://raw.githubusercontent.com/ksequu/spotify-video-background/main/background.mp4";
+        "https://raw.githubusercontent.com/ksequu/ksequu-bg/main/background.mp4";
 
     function addVideo() {
-        if (document.getElementById("spicetify-video-background")) return;
+        if (document.getElementById("ksequu-bg")) return;
 
         const video = document.createElement("video");
-        video.id = "spicetify-video-background";
+        video.id = "ksequu-bg";
 
         video.src = VIDEO_URL;
         video.autoplay = true;
