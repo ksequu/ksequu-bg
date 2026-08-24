@@ -1,6 +1,6 @@
 (function () {
     const VIDEO_URL =
-        "https://raw.githubusercontent.com/TWOJ_LOGIN/spotify-video-background/main/background.mp4";
+        "https://raw.githubusercontent.com/ksequu/spotify-video-background/main/background.mp4";
 
     function addVideo() {
         if (document.getElementById("spicetify-video-background")) return;
