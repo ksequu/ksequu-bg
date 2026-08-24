@@ -1,12 +1,13 @@
 {
-  "name": "Video Background",
+  "name": "ksequu bg",
   "description": "Animated MP4 background for Spotify",
   "preview": "preview.png",
   "main": "videoBackground.js",
   "readme": "README.md",
   "authors": [
     {
-      "name": "ksequu"
+      "name": "ksequu",
+      "url": "https://github.com/ksequu"
     }
   ]
 }
